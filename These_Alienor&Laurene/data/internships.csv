@@ -1,0 +1,423 @@
+student_id,internship_id,tag,period,type
+"0191dafd-0056-76c3-9094-3debe444a039","0192f78a-d5ad-72f5-8466-6286c6cc68dc",Urgences,20241,internshipHospital
+"0191dafd-0056-76c3-9094-3debe444a039","01963ebe-c137-71d7-8f00-a423d661dd28",SN1,20242,internshipPractical
+1ed8105d-c250-63da-83c2-91b15023c51a,1ed8105e-d1a3-6fac-9878-eb85670ba8b0,Urgences,20221,internshipHospital
+1ed8105d-c250-63da-83c2-91b15023c51a,1eddd318-cf9f-6c56-8a91-bdb063566f00,SN1,20222,internshipPractical
+1ed8105d-c251-66fe-a71a-91b15023c51a,1ed8105e-d352-67f4-9212-eb85670ba8b0,SN1,20221,internshipPractical
+1ed8105d-c251-66fe-a71a-91b15023c51a,1edf4aef-8a39-6ff4-afbe-ab0ca4a9d6f9,Urgences,20222,internshipHospital
+1ed8105d-c252-69a0-9a0b-91b15023c51a,1ed8105e-d454-6a6c-b342-eb85670ba8b0,SN1,20221,internshipPractical
+1ed8105d-c252-69a0-9a0b-91b15023c51a,1edf4af0-6f07-61c2-89ae-812a9063e64a,Urgences,20222,internshipHospital
+1ed8105d-c252-69a0-9a0b-91b15023c51a,1ee71b44-9487-6b3c-bb61-11fa05f4035b,Urgences,20231,internshipHospital
+1ed8105d-c252-69a0-9a0b-91b15023c51a,"018ebd0e-08fd-720c-bd61-f6ba8d692633",Pôle enfant,20232,internshipPractical
+1ed8105d-c252-69a0-9a0b-91b15023c51a,"019300d2-d874-7d19-85c8-d79f98a767cc",Médecine polyvalente,20241,internshipHospital
+1ed8105d-c253-6d64-8332-91b15023c51a,1ed8105e-d499-63a6-a05d-eb85670ba8b0,SN1,20221,internshipPractical
+1ed8105d-c253-6d64-8332-91b15023c51a,1edf4b16-178e-6bae-b1e7-b320f751656b,Urgences,20222,internshipHospital
+1ed8105d-c253-6d64-8332-91b15023c51a,1ee71bc3-32a6-6aba-902c-3559c264748d,Pôle enfant,20231,internshipHospital
+1ed8105d-c253-6d64-8332-91b15023c51a,"018ec32b-4db3-7878-96af-f3a429ddd262",Médecine polyvalente,20232,internshipHospital
+1ed8105d-c253-6d64-8332-91b15023c51a,"0192f76a-7da4-784a-aa86-ca82ce48030d",Pôle femme,20241,internshipHospital
+1ed8105d-c253-6d64-8332-91b15023c51a,"01961af8-5fed-7609-981f-81c2c74fe9e9",SN2,20242,internshipPractical
+1ed8105d-c254-6f7a-9ce4-91b15023c51a,1ed8105e-d1b4-6f64-be9f-eb85670ba8b0,Urgences,20221,internshipHospital
+1ed8105d-c254-6f7a-9ce4-91b15023c51a,1eddd3e3-68f7-683e-afb1-37d1566b753d,SN1,20222,internshipPractical
+1ed8105d-c254-6f7a-9ce4-91b15023c51a,1ee71ba8-799b-6b02-bd63-bfeb601edb50,Pôle enfant,20231,internshipHospital
+1ed8105d-c254-6f7a-9ce4-91b15023c51a,"018ec32b-852c-79b2-835f-e7e6d105a62c",Médecine polyvalente,20232,internshipHospital
+1ed8105d-c254-6f7a-9ce4-91b15023c51a,"0192958d-8f9d-78b2-bd56-0f3e6abbe477",SN2,20241,internshipPractical
+1ed8105d-c254-6f7a-9ce4-91b15023c51a,"0196486f-6b1b-7713-9171-154688cbb80e",Pôle femme,20242,internshipHospital
+1ed8105d-c256-612c-a830-91b15023c51a,1ed8105e-d1ac-6080-ac85-eb85670ba8b0,Urgences,20221,internshipHospital
+1ed8105d-c256-612c-a830-91b15023c51a,1eddd3e9-0d70-67da-8db4-11b3b9d38020,SN1,20222,internshipPractical
+1ed8105d-c256-612c-a830-91b15023c51a,1ee71bae-0aeb-672e-8238-8d97fb3880df,Pôle enfant,20231,internshipHospital
+1ed8105d-c256-612c-a830-91b15023c51a,"018ec32b-dee1-79b6-83b5-9dbb1a8766d8",Médecine polyvalente,20232,internshipHospital
+1ed8105d-c256-612c-a830-91b15023c51a,"01929592-9985-7fa6-b2b6-f9bcc7b9b408",SN2,20241,internshipPractical
+1ed8105d-c256-612c-a830-91b15023c51a,"01964869-ec3c-7911-92d4-c39045d623eb",Pôle femme,20242,internshipHospital
+1ed8105d-c257-64f0-95df-91b15023c51a,1ed8105e-d3f1-6354-a59f-eb85670ba8b0,SN1,20221,internshipPractical
+1ed8105d-c257-64f0-95df-91b15023c51a,1edf4b16-a47a-6d24-a4de-5f5649facbeb,Urgences,20222,internshipHospital
+1ed8105d-c257-64f0-95df-91b15023c51a,1ee71a38-2af6-6194-a46a-89a835eecc42,Pôle enfant,20231,internshipPractical
+1ed8105d-c257-64f0-95df-91b15023c51a,"018ec32c-5154-70e6-b227-ec0c068c15c7",Médecine polyvalente,20232,internshipHospital
+1ed8105d-c257-64f0-95df-91b15023c51a,"01929593-003d-7689-99cc-274531185154",SN2,20241,internshipPractical
+1ed8105d-c257-64f0-95df-91b15023c51a,"0196486d-bc98-73ce-a265-1f1f63e41b28",Médecine polyvalente,20242,internshipHospital
+1ed8105d-c258-67b0-a62a-91b15023c51a,1ed8105e-d1bc-6e12-b28e-eb85670ba8b0,Urgences,20221,internshipHospital
+1ed8105d-c258-67b0-a62a-91b15023c51a,1eddd3e0-dfb0-6bcc-bf80-d9c6d6d9cb3d,SN1,20222,internshipPractical
+1ed8105d-c258-67b0-a62a-91b15023c51a,1ee71bda-57c7-6814-8df1-dffd64b609df,Médecine polyvalente,20231,internshipHospital
+1ed8105d-c258-67b0-a62a-91b15023c51a,"018ec32c-ad30-7c47-9b17-8fff98323600",Pôle enfant,20232,internshipHospital
+1ed8105d-c258-67b0-a62a-91b15023c51a,"0192f76b-451d-7b5c-8e96-834e0469c4c9",Pôle femme,20241,internshipHospital
+1ed8105d-c258-67b0-a62a-91b15023c51a,"01961aed-874b-7d05-9190-a1b426590d01",SN2,20242,internshipPractical
+1ed8105d-c259-69f8-ab46-91b15023c51a,1ed8105e-d1c8-63a2-9512-eb85670ba8b0,Urgences,20221,internshipHospital
+1ed8105d-c259-69f8-ab46-91b15023c51a,1eddd3c2-2b6c-60bc-8964-c526c514405c,SN1,20222,internshipPractical
+1ed8105d-c259-69f8-ab46-91b15023c51a,1ee71bdd-479a-66fa-ab1c-03159bc31bc6,Médecine polyvalente,20231,internshipHospital
+1ed8105d-c259-69f8-ab46-91b15023c51a,"018ec32d-0b1b-7659-bff0-880cdfe07cd8",Pôle enfant,20232,internshipHospital
+1ed8105d-c259-69f8-ab46-91b15023c51a,"01929599-0f31-7169-a278-66758797c184",SN2,20241,internshipPractical
+1ed8105d-c259-69f8-ab46-91b15023c51a,"01964870-c613-787e-97b7-ab5ce7be2e9d",Pôle femme,20242,internshipHospital
+1ed8105d-c25a-6c68-8e15-91b15023c51a,1ed8105e-d1d9-62b0-bda2-eb85670ba8b0,Urgences,20221,internshipHospital
+1ed8105d-c25a-6c68-8e15-91b15023c51a,1eddd3c8-51d6-6e5e-a192-1502672e2654,SN1,20222,internshipPractical
+1ed8105d-c25a-6c68-8e15-91b15023c51a,1ee7663b-8eb0-6564-8cb0-e9cfbeb2f841,Médecine polyvalente,20231,internshipHospital
+1ed8105d-c25a-6c68-8e15-91b15023c51a,"018ec32e-52ef-7753-89d5-f91c576208c6",Pôle enfant,20232,internshipHospital
+1ed8105d-c25a-6c68-8e15-91b15023c51a,"01929596-2a62-7810-ab08-9088d7f2555e",SN2,20241,internshipPractical
+1ed8105d-c25a-6c68-8e15-91b15023c51a,"019661ad-446f-72de-a57e-5faf2c898164",Pôle femme,20242,internshipHospital
+1ed8105d-c25c-6144-ae3c-91b15023c51a,1ed8105e-d1d0-6ae8-be35-eb85670ba8b0,Urgences,20221,internshipHospital
+1ed8105d-c25c-6144-ae3c-91b15023c51a,1eddd3c0-a2de-6f3e-8397-5be4a2b15626,SN1,20222,internshipPractical
+1ed8105d-c25c-6144-ae3c-91b15023c51a,1ee765f8-66da-62c6-9eac-c3b8ded8f6d2,Pôle enfant,20231,internshipHospital
+1ed8105d-c25c-6144-ae3c-91b15023c51a,"018ec330-98ba-7c5a-b463-f42525aee3e3",Médecine polyvalente,20232,internshipHospital
+1ed8105d-c25d-63aa-95d2-91b15023c51a,1ed8105e-d4ac-6974-97a8-eb85670ba8b0,SN1,20221,internshipPractical
+1ed8105d-c25d-63aa-95d2-91b15023c51a,1edf4af3-e2f1-6c60-805d-31a27d50f361,Urgences,20222,internshipHospital
+1ed8105d-c25d-63aa-95d2-91b15023c51a,1ee765f9-708d-6c04-869d-1fbd2a1c9523,Médecine polyvalente,20231,internshipHospital
+1ed8105d-c25d-63aa-95d2-91b15023c51a,"0192f76c-3df4-7791-942e-0750b5e9f416",Pôle enfant,20241,internshipHospital
+1ed8105d-c25d-63aa-95d2-91b15023c51a,"01961af9-f14f-78ec-950f-a5f9cab62dc1",SN2,20242,internshipPractical
+1ed8105d-c25e-65de-ac72-91b15023c51a,1ed8105e-d1e1-61b8-a4dd-eb85670ba8b0,Urgences,20221,internshipHospital
+1ed8105d-c25e-65de-ac72-91b15023c51a,1eddeab9-2573-6e90-b57b-fdb33c0d2bdf,SN1,20222,internshipPractical
+1ed8105d-c25e-65de-ac72-91b15023c51a,1ee71a3d-1f1e-6146-a343-a1e801d58d14,Pôle enfant,20231,internshipPractical
+1ed8105d-c25e-65de-ac72-91b15023c51a,"018ec332-5123-77ce-adef-db7369c0b8bc",Médecine polyvalente,20232,internshipHospital
+1ed8105d-c25e-65de-ac72-91b15023c51a,"0192959a-ad40-7724-906a-46e48054280a",SN2,20241,internshipPractical
+1ed8105d-c25e-65de-ac72-91b15023c51a,"019661b0-79b3-713f-bc9a-51ec65fbd2a3",Pôle femme,20242,internshipHospital
+1ed8105d-c25f-6a88-a941-91b15023c51a,1ed8105e-d1e8-6f3a-bbf1-eb85670ba8b0,Urgences,20221,internshipHospital
+1ed8105d-c25f-6a88-a941-91b15023c51a,1eddd3bb-cc20-6884-9a74-878800ec6c3f,SN1,20222,internshipPractical
+1ed8105d-c260-6c44-b7e5-91b15023c51a,1ed8105e-d44a-69fe-a8ab-eb85670ba8b0,SN1,20221,internshipPractical
+1ed8105d-c260-6c44-b7e5-91b15023c51a,1edf4b17-2725-6102-8312-6d268fef981e,Urgences,20222,internshipHospital
+1ed8105d-c260-6c44-b7e5-91b15023c51a,1ee76601-2a07-6584-90dd-cd66a4b52fcb,Médecine polyvalente,20231,internshipHospital
+1ed8105d-c260-6c44-b7e5-91b15023c51a,"018ec333-196c-7076-89fc-5e15aac665f8",Pôle enfant,20232,internshipHospital
+1ed8105d-c260-6c44-b7e5-91b15023c51a,"0192f76d-10e1-74b7-885d-32514a705a03",Pôle femme,20241,internshipHospital
+1ed8105d-c260-6c44-b7e5-91b15023c51a,"01961af6-e2fb-7a75-a464-ec5ae7cd6b54",SN2,20242,internshipPractical
+1ed8105d-c261-6e8c-ad39-91b15023c51a,1ed8105e-d1f0-6ba4-9887-eb85670ba8b0,Urgences,20221,internshipHospital
+1ed8105d-c261-6e8c-ad39-91b15023c51a,1eddd3c7-902d-63de-ad77-451694ed2dd7,SN1,20222,internshipPractical
+1ed8105d-c261-6e8c-ad39-91b15023c51a,1ee71bd2-90a3-64f6-9a5d-5d95063935e2,Pôle enfant,20231,internshipHospital
+1ed8105d-c261-6e8c-ad39-91b15023c51a,"018ec334-6259-7ef3-8dab-c3e747189447",Médecine polyvalente,20232,internshipHospital
+1ed8105d-c261-6e8c-ad39-91b15023c51a,"0192958f-d1a3-7d57-a285-7207a0b37732",SN2,20241,internshipPractical
+1ed8105d-c261-6e8c-ad39-91b15023c51a,"019661b3-75aa-77c4-9600-598bf2e13463",Pôle femme,20242,internshipHospital
+1ed8105d-c263-60de-af29-91b15023c51a,1ed8105e-d1f8-6f16-8006-eb85670ba8b0,Urgences,20221,internshipHospital
+1ed8105d-c263-60de-af29-91b15023c51a,1eddd3e7-9d3e-624c-8186-eb2ac313df4d,SN1,20222,internshipPractical
+1ed8105d-c263-60de-af29-91b15023c51a,1ee71b63-8e2c-6ca0-83a6-89a48e7dcca3,Urgences,20231,internshipHospital
+1ed8105d-c263-60de-af29-91b15023c51a,"018ebcea-e5b1-7688-8b20-cb01486bae8a",SN1,20232,internshipPractical
+1ed8105d-c263-60de-af29-91b15023c51a,"0192f6cc-349e-735b-9f0b-5b0a2a58625b",Médecine polyvalente,20241,internshipHospital
+1ed8105d-c263-60de-af29-91b15023c51a,"019661b6-715d-7401-9d06-99cdd488d93e",Pôle enfant,20242,internshipHospital
+1ed8105d-c264-6290-9906-91b15023c51a,1ed8105e-d20d-6b00-b264-eb85670ba8b0,Urgences,20221,internshipHospital
+1ed8105d-c264-6290-9906-91b15023c51a,1eddd3ee-5b6a-6e18-8928-57fa41953f62,SN1,20222,internshipPractical
+1ed8105d-c264-6290-9906-91b15023c51a,1ee71bdf-8e59-6378-a411-6f52fca3132c,Médecine polyvalente,20231,internshipHospital
+1ed8105d-c264-6290-9906-91b15023c51a,"018ec334-b096-7feb-ad47-73a6c4f5b781",Pôle enfant,20232,internshipHospital
+1ed8105d-c264-6290-9906-91b15023c51a,"0192f76d-7240-78a5-86ae-df7f0559cb09",Pôle femme,20241,internshipHospital
+1ed8105d-c264-6290-9906-91b15023c51a,"01961af6-85e1-783a-9374-8b7776529a43",SN2,20242,internshipPractical
+1ed8105d-c265-64e2-ac48-91b15023c51a,1ed8105e-d348-6ca4-b76f-eb85670ba8b0,SN1,20221,internshipPractical
+1ed8105d-c265-64e2-ac48-91b15023c51a,1edf4af6-761e-60e0-9630-ed255effbd65,Urgences,20222,internshipHospital
+1ed8105d-c265-64e2-ac48-91b15023c51a,1ee71a3f-16de-60ec-8638-edd38348536b,Pôle enfant,20231,internshipPractical
+1ed8105d-c265-64e2-ac48-91b15023c51a,"018ec33e-659d-7cee-ba6b-521d917c0fa7",Médecine polyvalente,20232,internshipHospital
+1ed8105d-c265-64e2-ac48-91b15023c51a,"01929597-8388-71bc-a8ba-24bf196ec51a",SN2,20241,internshipPractical
+1ed8105d-c265-64e2-ac48-91b15023c51a,"019661c0-2c43-7d50-9d8c-d1a6401cfcda",Pôle femme,20242,internshipHospital
+1ed8105d-c266-66ee-bd9b-91b15023c51a,1ed8105e-d216-6cd2-afda-eb85670ba8b0,Urgences,20221,internshipHospital
+1ed8105d-c266-66ee-bd9b-91b15023c51a,1eddd3c4-52a2-6828-92b2-9f6b584e6927,SN1,20222,internshipPractical
+1ed8105d-c266-66ee-bd9b-91b15023c51a,1ee7663d-3169-6e58-aa3a-9d0d48be8f06,Pôle enfant,20231,internshipHospital
+1ed8105d-c266-66ee-bd9b-91b15023c51a,"018ec33f-6c1e-7ba8-bc15-3c171cdaa481",Médecine polyvalente,20232,internshipHospital
+1ed8105d-c266-66ee-bd9b-91b15023c51a,"019368db-4c3b-711a-863b-fa97569c55d3",Pôle femme,20241,internshipHospital
+1ed8105d-c266-66ee-bd9b-91b15023c51a,"01961ae9-7936-74d7-aa92-2f8649e9fe4c",SN2,20242,internshipPractical
+1ed8105d-c267-690e-87d6-91b15023c51a,1ed8105e-d48f-657c-8daa-eb85670ba8b0,SN1,20221,internshipPractical
+1ed8105d-c267-690e-87d6-91b15023c51a,1edf4af8-0870-64e2-90f5-21044deb2c1d,Urgences,20222,internshipHospital
+1ed8105d-c267-690e-87d6-91b15023c51a,1ee71bd3-95ab-6d4e-9adc-7d98bff00f92,Médecine polyvalente,20231,internshipHospital
+1ed8105d-c267-690e-87d6-91b15023c51a,"018ebd0e-cb5b-7105-a8b9-7fad0e10b099",Pôle enfant,20232,internshipPractical
+1ed8105d-c267-690e-87d6-91b15023c51a,"01929597-d909-7c26-b5b4-ec3cd9ff8a16",SN2,20241,internshipPractical
+1ed8105d-c267-690e-87d6-91b15023c51a,"019661c0-f41e-70f2-99ac-06fa27083c76",Pôle femme,20242,internshipHospital
+1ed8105d-c268-6ad4-97c3-91b15023c51a,1ed8105e-d21f-6800-bebe-eb85670ba8b0,Urgences,20221,internshipHospital
+1ed8105d-c268-6ad4-97c3-91b15023c51a,1eddd3dc-88ba-697a-9d6d-99ea70f111aa,SN1,20222,internshipPractical
+1ed8105d-c268-6ad4-97c3-91b15023c51a,1ee71bcd-1e6d-6c9c-962c-79525c4bb302,Pôle enfant,20231,internshipHospital
+1ed8105d-c268-6ad4-97c3-91b15023c51a,"018ec33f-cf02-7f90-9f93-82e77aebab20",Médecine polyvalente,20232,internshipHospital
+1ed8105d-c268-6ad4-97c3-91b15023c51a,"01929595-394f-7506-b0bf-4a23ed389fb7",SN2,20241,internshipPractical
+1ed8105d-c268-6ad4-97c3-91b15023c51a,"019661c2-b5cc-7be8-a8cf-64728192c419",Pôle femme,20242,internshipHospital
+1ed8105d-c269-6cae-8e52-91b15023c51a,1ed8105e-d22c-676c-82f6-eb85670ba8b0,Urgences,20221,internshipHospital
+1ed8105d-c269-6cae-8e52-91b15023c51a,1eddd3bc-e429-636c-aa9a-45d2c4170d2f,SN1,20222,internshipPractical
+1ed8105d-c269-6cae-8e52-91b15023c51a,1ee765fa-3e2a-6036-9ad8-77e342fd6fae,Médecine polyvalente,20231,internshipHospital
+1ed8105d-c269-6cae-8e52-91b15023c51a,"018ec340-2219-7810-b808-57828dd62c7b",Pôle enfant,20232,internshipHospital
+1ed8105d-c269-6cae-8e52-91b15023c51a,"0192f76d-c735-781c-91c9-70436f39f934",Pôle enfant,20241,internshipHospital
+1ed8105d-c269-6cae-8e52-91b15023c51a,"019661e0-7458-7945-981e-06abbc0cc985",Pôle femme,20242,internshipHospital
+1ed8105d-c26a-6fb4-a5b8-91b15023c51a,1ed8105e-d234-6dea-b163-eb85670ba8b0,Urgences,20221,internshipHospital
+1ed8105d-c26c-63aa-bb72-91b15023c51a,1ed8105e-d23c-6e64-82f2-eb85670ba8b0,Urgences,20221,internshipHospital
+1ed8105d-c26c-63aa-bb72-91b15023c51a,1eddd3bd-ebcb-6498-b361-5519d70b479d,SN1,20222,internshipPractical
+1ed8105d-c26d-6598-bbfc-91b15023c51a,1ed8105e-d3ab-6520-8ef3-eb85670ba8b0,SN1,20221,internshipPractical
+1ed8105d-c26d-6598-bbfc-91b15023c51a,1edf4af8-94ab-6d4e-9883-c16813e0abb2,Urgences,20222,internshipHospital
+1ed8105d-c26d-6598-bbfc-91b15023c51a,1ee71a36-6d23-637a-b064-ad1b1dec459c,Pôle enfant,20231,internshipPractical
+1ed8105d-c26d-6598-bbfc-91b15023c51a,"018ec340-bf09-75ef-a718-01436d27efa7",Médecine polyvalente,20232,internshipHospital
+1ed8105d-c26d-6598-bbfc-91b15023c51a,"0192958e-5f06-79b9-aaaf-bd7b01f31cbc",SN2,20241,internshipPractical
+1ed8105d-c26d-6598-bbfc-91b15023c51a,"019661db-1b71-7c6c-aa46-1f7c00ff7e54",Pôle femme,20242,internshipHospital
+1ed8105d-c26e-6952-8b71-91b15023c51a,1ed8105e-d245-61a4-a70a-eb85670ba8b0,Urgences,20221,internshipHospital
+1ed8105d-c26e-6952-8b71-91b15023c51a,1eddd3df-5627-62f8-90af-cfd1727aa44c,SN1,20222,internshipPractical
+1ed8105d-c270-6d88-9993-91b15023c51a,1ed8105e-d255-6676-9af1-eb85670ba8b0,Urgences,20221,internshipHospital
+1ed8105d-c270-6d88-9993-91b15023c51a,1eddd3be-d51c-6e58-b902-5b68b995c675,SN1,20222,internshipPractical
+1ed8105d-c270-6d88-9993-91b15023c51a,1ee71bc5-7dac-69f4-8fbe-b96367cf3118,Pôle enfant,20231,internshipHospital
+1ed8105d-c270-6d88-9993-91b15023c51a,"018ec346-3854-76f2-9a30-2bbc2d2b7ffa",Médecine polyvalente,20232,internshipHospital
+1ed8105d-c270-6d88-9993-91b15023c51a,"0192958b-5f88-7e8a-baf4-c37a2a40f4cb",SN2,20241,internshipPractical
+1ed8105d-c270-6d88-9993-91b15023c51a,"019661c4-c54f-78db-ac55-d6690ff6da32",Pôle femme,20242,internshipHospital
+1ed8105d-c271-6f6c-8a7c-91b15023c51a,1ed8105e-d418-66ca-af82-eb85670ba8b0,SN1,20221,internshipPractical
+1ed8105d-c271-6f6c-8a7c-91b15023c51a,1edf4af9-c666-63ba-a0e0-07efdb414646,Urgences,20222,internshipHospital
+1ed8105d-c271-6f6c-8a7c-91b15023c51a,"018c6de6-b852-73b7-81b2-cd128d1ba886",Médecine polyvalente,20231,internshipHospital
+1ed8105d-c271-6f6c-8a7c-91b15023c51a,"018ec346-9d53-71c3-bdc5-54cc7ce831c6",Pôle enfant,20232,internshipHospital
+1ed8105d-c271-6f6c-8a7c-91b15023c51a,"01929593-f57b-73d0-bb2f-e9fd6b6ea4b5",SN2,20241,internshipPractical
+1ed8105d-c273-6182-a25d-91b15023c51a,1ed8105e-d25d-6308-8c73-eb85670ba8b0,Urgences,20221,internshipHospital
+1ed8105d-c273-6182-a25d-91b15023c51a,1edf4afa-5248-6108-86e1-f728bd7200d4,Urgences,20222,internshipHospital
+1ed8105d-c273-6182-a25d-91b15023c51a,1ee71a4e-e61e-621c-a3b1-43b74b365318,SN1,20231,internshipPractical
+1ed8105d-c273-6182-a25d-91b15023c51a,"018ec347-238e-76fe-88f7-7390ef25a557",Pôle enfant,20232,internshipHospital
+1ed8105d-c273-6182-a25d-91b15023c51a,"019300d4-9f48-7fc7-a8a3-1c10a7fd2bf5",Médecine polyvalente,20241,internshipHospital
+1ed8105d-c274-63f2-a410-91b15023c51a,1ed8105e-d42c-6288-b3ad-eb85670ba8b0,SN1,20221,internshipPractical
+1ed8105d-c274-63f2-a410-91b15023c51a,1edf4afb-044c-6a0c-a02d-555a09a4fffb,Urgences,20222,internshipHospital
+1ed8105d-c274-63f2-a410-91b15023c51a,1ee71a39-1298-6114-a35d-6710f4cfd9c7,Pôle enfant,20231,internshipPractical
+1ed8105d-c274-63f2-a410-91b15023c51a,"018ec347-81e3-7019-9c15-ffbaccf60b55",Médecine polyvalente,20232,internshipHospital
+1ed8105d-c274-63f2-a410-91b15023c51a,"01929597-21f2-7c15-bde0-b7153c1b2571",SN2,20241,internshipPractical
+1ed8105d-c275-67b6-b0e9-91b15023c51a,1ed8105e-d265-6288-9d8f-eb85670ba8b0,Urgences,20221,internshipHospital
+1ed8105d-c275-67b6-b0e9-91b15023c51a,1eddd3da-c6b7-634c-99ed-41ec61661a82,SN1,20222,internshipPractical
+1ed8105d-c275-67b6-b0e9-91b15023c51a,1ee71bd1-65ab-6a88-bf80-05b31f6da4c6,Médecine polyvalente,20231,internshipHospital
+1ed8105d-c275-67b6-b0e9-91b15023c51a,"018ec347-dc0b-7501-a994-cdeb709598dc",Pôle enfant,20232,internshipHospital
+1ed8105d-c275-67b6-b0e9-91b15023c51a,"0192f76e-6d4f-78ab-a9f9-ec14ddbdbfdb",Médecine polyvalente,20241,internshipHospital
+1ed8105d-c275-67b6-b0e9-91b15023c51a,"01961aef-5fdb-7742-a9d5-3810ecdb464f",SN2,20242,internshipPractical
+1ed8105d-c276-6a58-9f67-91b15023c51a,1ed8105e-d33f-6050-9e16-eb85670ba8b0,SN1,20221,internshipPractical
+1ed8105d-c276-6a58-9f67-91b15023c51a,1edf4afc-a5bd-69b2-97bb-c9bb2cdddd04,Urgences,20222,internshipHospital
+1ed8105d-c276-6a58-9f67-91b15023c51a,1ee71bdb-ba61-6f96-a2c5-f72727d0b03e,Médecine polyvalente,20231,internshipHospital
+1ed8105d-c276-6a58-9f67-91b15023c51a,"018ebd0c-20c0-7cb5-aec0-e1d527bc33bd",Pôle enfant,20232,internshipPractical
+1ed8105d-c276-6a58-9f67-91b15023c51a,"0192958f-65fe-7ca7-8b55-3e8f5e7f161b",SN2,20241,internshipPractical
+1ed8105d-c276-6a58-9f67-91b15023c51a,"019661c7-ad95-7177-97a2-44b42431731b",Pôle femme,20242,internshipHospital
+1ed8105d-c277-6c0a-9a8a-91b15023c51a,1ed8105e-d45e-6a58-be41-eb85670ba8b0,SN1,20221,internshipPractical
+1ed8105d-c277-6c0a-9a8a-91b15023c51a,1edf4afd-4a0b-6c62-8380-f1cbac97f337,Urgences,20222,internshipHospital
+1ed8105d-c277-6c0a-9a8a-91b15023c51a,1ee71bc6-d706-6db4-b0a4-abf8f6eebf22,Pôle enfant,20231,internshipHospital
+1ed8105d-c277-6c0a-9a8a-91b15023c51a,"018ec348-2934-752e-98eb-c128871aecd1",Médecine polyvalente,20232,internshipHospital
+1ed8105d-c277-6c0a-9a8a-91b15023c51a,"0192f76e-e903-73a8-a187-faba2ba39e09",Pôle femme,20241,internshipHospital
+1ed8105d-c277-6c0a-9a8a-91b15023c51a,"019661db-cabf-7856-9e71-3a2798db9524",Pôle femme,20242,internshipHospital
+1ed8105d-c278-6db2-88f3-91b15023c51a,1ed8105e-d26d-63a2-a78d-eb85670ba8b0,Urgences,20221,internshipHospital
+1ed8105d-c278-6db2-88f3-91b15023c51a,1eddd3ca-a258-6254-ba8b-3141ee717f44,SN1,20222,internshipPractical
+1ed8105d-c278-6db2-88f3-91b15023c51a,1ee71bed-cd3a-6458-8955-a18263ed8e29,Médecine polyvalente,20231,internshipHospital
+1ed8105d-c278-6db2-88f3-91b15023c51a,"018ec348-90e6-73c9-b168-c04efc14e0b0",Pôle enfant,20232,internshipHospital
+1ed8105d-c278-6db2-88f3-91b15023c51a,"0192f76f-6142-7120-9832-30f89c9f6bfa",Pôle enfant,20241,internshipHospital
+1ed8105d-c279-6f14-ace1-91b15023c51a,1ed8105e-d47b-681a-ad73-eb85670ba8b0,SN1,20221,internshipPractical
+1ed8105d-c279-6f14-ace1-91b15023c51a,1edf4afe-031a-6262-93ab-1bde10355df3,Urgences,20222,internshipHospital
+1ed8105d-c279-6f14-ace1-91b15023c51a,1ee71bd8-728f-6a4a-834d-b143312a2c72,Médecine polyvalente,20231,internshipHospital
+1ed8105d-c279-6f14-ace1-91b15023c51a,"018ec348-faf4-73c2-b47b-c6b678270b98",Pôle enfant,20232,internshipHospital
+1ed8105d-c279-6f14-ace1-91b15023c51a,"0192f76f-af60-77d7-8003-a48366c962d2",Pôle enfant,20241,internshipHospital
+1ed8105d-c279-6f14-ace1-91b15023c51a,"019643e0-2dac-7ec8-a75d-eb3f40cad092",Pôle enfant,20242,internshipHospital
+1ed8105d-c27b-6030-b6a4-91b15023c51a,1ed8105e-d278-6194-991f-eb85670ba8b0,Urgences,20221,internshipHospital
+1ed8105d-c27b-6030-b6a4-91b15023c51a,1eddd3e9-c57b-6d2a-892d-c5d89ed15fa9,SN1,20222,internshipPractical
+1ed8105d-c27b-6030-b6a4-91b15023c51a,1ee71beb-a1fa-6916-9a5b-d7f019c406ca,Pôle enfant,20231,internshipHospital
+1ed8105d-c27b-6030-b6a4-91b15023c51a,"018ec34a-6e3b-7f6b-b666-f0a9aba6e69c",Médecine polyvalente,20232,internshipHospital
+1ed8105d-c27b-6030-b6a4-91b15023c51a,"019300d6-9178-7fb0-b3d6-bb075c13fd39",Pôle femme,20241,internshipHospital
+1ed8105d-c27b-6030-b6a4-91b15023c51a,"01961af0-7895-76fc-85ab-271edb166d0f",SN2,20242,internshipPractical
+1ed8105d-c27c-61e2-b822-91b15023c51a,1ed8105e-d3b5-667e-b3e9-eb85670ba8b0,SN1,20221,internshipPractical
+1ed8105d-c27c-61e2-b822-91b15023c51a,1edf4afe-a949-6ed0-bb29-696948a735c8,Urgences,20222,internshipHospital
+1ed8105d-c27c-61e2-b822-91b15023c51a,1ee71bec-89c6-6948-b1ef-0bf93d1b3f5d,Pôle enfant,20231,internshipHospital
+1ed8105d-c27c-61e2-b822-91b15023c51a,"018ec34a-c8b6-7aa6-95a1-4446d92c953f",Médecine polyvalente,20232,internshipHospital
+1ed8105d-c27c-61e2-b822-91b15023c51a,"0192f770-2d14-739b-83bd-d5542ce90072",Pôle femme,20241,internshipHospital
+1ed8105d-c27c-61e2-b822-91b15023c51a,"01961af0-18b5-7ae9-99ca-e833b8a33086",SN2,20242,internshipPractical
+1ed8105d-c27d-6326-a237-91b15023c51a,1ed8105e-d383-6e58-824c-eb85670ba8b0,SN1,20221,internshipPractical
+1ed8105d-c27d-6326-a237-91b15023c51a,1edf4aff-5578-680a-86a7-1b7940baf43c,Urgences,20222,internshipHospital
+1ed8105d-c27d-6326-a237-91b15023c51a,1ee765d9-2873-6894-b39f-0f57dfdcc758,Pôle enfant,20231,internshipHospital
+1ed8105d-c27d-6326-a237-91b15023c51a,"018ec34b-49cf-7eea-aba2-8e3f7fa935f7",Médecine polyvalente,20232,internshipHospital
+1ed8105d-c27d-6326-a237-91b15023c51a,"01929590-4754-7f10-9598-f03cab392b81",SN2,20241,internshipPractical
+1ed8105d-c27d-6326-a237-91b15023c51a,"019661ca-3be7-78fe-b2c6-6739d5b532b4",Pôle femme,20242,internshipHospital
+1ed8105d-c27e-64d8-a201-91b15023c51a,1ed8105e-d27f-6d9a-848e-eb85670ba8b0,Urgences,20221,internshipHospital
+1ed8105d-c27e-64d8-a201-91b15023c51a,1eddd3de-6704-6400-9d4c-93b2bf63d7b9,SN1,20222,internshipPractical
+1ed8105d-c27e-64d8-a201-91b15023c51a,1ee71bd9-af35-689a-afba-ed21eda6b604,Médecine polyvalente,20231,internshipHospital
+1ed8105d-c27e-64d8-a201-91b15023c51a,"018ec34b-cebd-7ba3-84e3-b5d8c67d0e1e",Pôle enfant,20232,internshipHospital
+1ed8105d-c27e-64d8-a201-91b15023c51a,"019300d8-f84c-7c09-8d4e-c2c13a08a11c",Pôle femme,20241,internshipHospital
+1ed8105d-c27e-64d8-a201-91b15023c51a,"01961af2-8ffb-72d0-b5d7-fcf5d01c9f58",SN2,20242,internshipPractical
+1ed8105d-c27f-66da-bab5-91b15023c51a,1ed8105e-d485-6748-b7f3-eb85670ba8b0,SN1,20221,internshipPractical
+1ed8105d-c27f-66da-bab5-91b15023c51a,1edf4b17-c20d-6070-9c5a-877aef0c5701,Urgences,20222,internshipHospital
+1ed8105d-c27f-66da-bab5-91b15023c51a,1ee71bb3-a90c-6836-b523-fd296c164571,Médecine polyvalente,20231,internshipHospital
+1ed8105d-c27f-66da-bab5-91b15023c51a,"018ec34c-7595-7dff-88cb-206b1312f103",Pôle enfant,20232,internshipHospital
+1ed8105d-c27f-66da-bab5-91b15023c51a,"0192f770-d6c9-7ee5-a9ee-1728025bcc1c",Pôle femme,20241,internshipHospital
+1ed8105d-c27f-66da-bab5-91b15023c51a,"01961af6-2f36-76ed-9a35-fd770a22f282",SN2,20242,internshipPractical
+1ed8105d-c280-695e-a7d3-91b15023c51a,1ed8105e-d436-60da-8b4c-eb85670ba8b0,SN1,20221,internshipPractical
+1ed8105d-c280-695e-a7d3-91b15023c51a,1edf4b01-982a-6296-9602-3762a7761ff6,Urgences,20222,internshipHospital
+1ed8105d-c280-695e-a7d3-91b15023c51a,1ee71bd7-8622-6bc6-aece-57c7905b4570,Médecine polyvalente,20231,internshipHospital
+1ed8105d-c280-695e-a7d3-91b15023c51a,"018ebd0d-b9f9-7d99-8318-95cd9fe30acf",Pôle enfant,20232,internshipPractical
+1ed8105d-c280-695e-a7d3-91b15023c51a,"01929596-afb2-7fc1-bebe-a5123a3ff3a5",SN2,20241,internshipPractical
+1ed8105d-c280-695e-a7d3-91b15023c51a,"019661cb-2024-797c-aefe-011fb8d9db8f",Pôle femme,20242,internshipHospital
+1ed8105d-c281-6ade-9a57-91b15023c51a,1ed8105e-d422-6418-a8a7-eb85670ba8b0,SN1,20221,internshipPractical
+1ed8105d-c281-6ade-9a57-91b15023c51a,1edf4b02-2a7c-6ba8-9c55-cdd873f5062f,Urgences,20222,internshipHospital
+1ed8105d-c281-6ade-9a57-91b15023c51a,1ee71bea-aba7-6f1e-8ce4-811a9d2a4168,Médecine polyvalente,20231,internshipHospital
+1ed8105d-c281-6ade-9a57-91b15023c51a,"018ec34c-f247-7970-9dcf-059c01d41428",Pôle enfant,20232,internshipHospital
+1ed8105d-c281-6ade-9a57-91b15023c51a,"0192f771-3483-7210-84d6-c1854529e3de",Pôle femme,20241,internshipHospital
+1ed8105d-c281-6ade-9a57-91b15023c51a,"01961aee-98de-763c-93e6-c3e107667190",SN2,20242,internshipPractical
+1ed8105d-c282-6c72-8fc3-91b15023c51a,1ed8105e-d288-6990-9584-eb85670ba8b0,Urgences,20221,internshipHospital
+1ed8105d-c282-6c72-8fc3-91b15023c51a,1eddd3e8-540b-6d30-b9d2-019ce0b570d2,SN1,20222,internshipPractical
+1ed8105d-c282-6c72-8fc3-91b15023c51a,1ee71be6-6214-61a8-9ada-810984ea7476,Pôle enfant,20231,internshipHospital
+1ed8105d-c282-6c72-8fc3-91b15023c51a,"018ec34d-5977-7055-8731-dcfe1a1284d4",Médecine polyvalente,20232,internshipHospital
+1ed8105d-c282-6c72-8fc3-91b15023c51a,"01929592-17ce-74c3-bd52-0ef1464bc68f",SN2,20241,internshipPractical
+1ed8105d-c282-6c72-8fc3-91b15023c51a,"019661de-c5a5-70a8-80f3-0bef11a43598",Pôle femme,20242,internshipHospital
+1ed8105d-c283-6e1a-a12c-91b15023c51a,1ed8105e-d290-6f50-877c-eb85670ba8b0,Urgences,20221,internshipHospital
+1ed8105d-c283-6e1a-a12c-91b15023c51a,1eddd3c9-1b86-61d2-bf33-19db7be4521c,SN1,20222,internshipPractical
+1ed8105d-c283-6e1a-a12c-91b15023c51a,1ee7663f-e683-6b84-ad3d-05af701eabba,Pôle enfant,20231,internshipHospital
+1ed8105d-c283-6e1a-a12c-91b15023c51a,"018ec34d-c141-763b-aa69-3d64c5e54463",Médecine polyvalente,20232,internshipHospital
+1ed8105d-c283-6e1a-a12c-91b15023c51a,"0192f771-98e8-7ed8-bb99-6abc15a16add",Pôle femme,20241,internshipHospital
+1ed8105d-c283-6e1a-a12c-91b15023c51a,"01961afa-70b9-7682-86a5-1321844cdd6c",SN2,20242,internshipPractical
+1ed8105d-c284-6fea-8410-91b15023c51a,1ed8105e-d29c-671a-9e5c-eb85670ba8b0,Urgences,20221,internshipHospital
+1ed8105d-c284-6fea-8410-91b15023c51a,1eddd3e0-291b-602e-88ed-f73eb6c28f97,SN1,20222,internshipPractical
+1ed8105d-c284-6fea-8410-91b15023c51a,1ee76640-d3e8-655a-8a82-cb3278edf127,Médecine polyvalente,20231,internshipHospital
+1ed8105d-c284-6fea-8410-91b15023c51a,"018ebd0a-6c93-7c8d-9117-c76a3b5ec964",Pôle enfant,20232,internshipPractical
+1ed8105d-c284-6fea-8410-91b15023c51a,"019300da-f721-783d-bdb4-fbb12f7f4820",Pôle femme,20241,internshipHospital
+1ed8105d-c284-6fea-8410-91b15023c51a,"01961aea-25f7-7d19-84df-da4dc338ffc8",SN2,20242,internshipPractical
+1ed8105d-c286-61e2-abae-91b15023c51a,1ed8105e-d2a5-6a22-a734-eb85670ba8b0,Urgences,20221,internshipHospital
+1ed8105d-c286-61e2-abae-91b15023c51a,1eddd3c5-15a2-63be-bbad-334a59d5f687,SN1,20222,internshipPractical
+1ed8105d-c286-61e2-abae-91b15023c51a,1ee76641-8dd6-62dc-8a2d-796f1e987a2d,Médecine polyvalente,20231,internshipHospital
+1ed8105d-c286-61e2-abae-91b15023c51a,"018ebd0c-80bf-749e-aae4-0664801423ac",Pôle enfant,20232,internshipPractical
+1ed8105d-c286-61e2-abae-91b15023c51a,"0192f772-385d-72a1-b096-d3c90e9e002e",Pôle femme,20241,internshipHospital
+1ed8105d-c286-61e2-abae-91b15023c51a,"01961af9-50b9-7c93-b3b8-c4923293c8e8",SN2,20242,internshipPractical
+1ed8105d-c287-63d0-8e2a-91b15023c51a,1ed8105e-d3e7-6732-b43c-eb85670ba8b0,SN1,20221,internshipPractical
+1ed8105d-c287-63d0-8e2a-91b15023c51a,1edf4b02-d2e3-62d8-98e7-312af318af24,Urgences,20222,internshipHospital
+1ed8105d-c287-63d0-8e2a-91b15023c51a,1ee71be2-695f-65ba-8964-af14b1fe30f5,Pôle enfant,20231,internshipHospital
+1ed8105d-c287-63d0-8e2a-91b15023c51a,"018ec34e-3064-78ac-aa86-eafd7295cddb",Médecine polyvalente,20232,internshipHospital
+1ed8105d-c288-65b4-875b-91b15023c51a,1ed8105e-d404-679c-afc7-eb85670ba8b0,SN1,20221,internshipPractical
+1ed8105d-c288-65b4-875b-91b15023c51a,1edf4b03-8400-69d0-9cc6-8939beffba5a,Urgences,20222,internshipHospital
+1ed8105d-c288-65b4-875b-91b15023c51a,1ee71bdd-f895-66b2-8da6-b3ca95df389f,Médecine polyvalente,20231,internshipHospital
+1ed8105d-c288-65b4-875b-91b15023c51a,"019300dc-6a69-74c5-bfd5-a2006355bf9f",Pôle enfant,20241,internshipHospital
+1ed8105d-c288-65b4-875b-91b15023c51a,"01961aec-802b-7e82-b276-bf14e085d406",SN2,20242,internshipPractical
+1ed8105d-c289-684c-8f20-91b15023c51a,1ed8105e-d3c9-649e-b801-eb85670ba8b0,SN1,20221,internshipPractical
+1ed8105d-c289-684c-8f20-91b15023c51a,1edf4b03-fb79-6868-8345-cf7e84a0ba11,Urgences,20222,internshipHospital
+1ed8105d-c289-684c-8f20-91b15023c51a,1ee765fd-aabd-6e2a-8632-99cdc2df34a2,Pôle enfant,20231,internshipHospital
+1ed8105d-c289-684c-8f20-91b15023c51a,"018ec34f-8f50-7279-9dfc-243a704bd6a7",Médecine polyvalente,20232,internshipHospital
+1ed8105d-c289-684c-8f20-91b15023c51a,"01932a00-ed04-7156-a4ce-0c4e4ac1cd53",Pôle femme,20241,internshipHospital
+1ed8105d-c28a-6a6c-8644-91b15023c51a,1ed8105e-d2ae-6424-a3af-eb85670ba8b0,Urgences,20221,internshipHospital
+1ed8105d-c28a-6a6c-8644-91b15023c51a,1eddd3db-b4dd-6b52-b289-970187b7e42c,SN1,20222,internshipPractical
+1ed8105d-c28a-6a6c-8644-91b15023c51a,1ee71bf1-f00b-600a-bff3-7d5b0493ee33,Médecine polyvalente,20231,internshipHospital
+1ed8105d-c28a-6a6c-8644-91b15023c51a,"018ec34e-8a95-7b48-ac5d-997b9efb81b6",Pôle enfant,20232,internshipHospital
+1ed8105d-c28a-6a6c-8644-91b15023c51a,"0192958d-f721-7f5a-b8b1-6ed9c710ded5",SN2,20241,internshipPractical
+1ed8105d-c28a-6a6c-8644-91b15023c51a,"019661cc-491a-7f6a-9637-c45e709b550e",Pôle femme,20242,internshipHospital
+1ed8105d-c28b-6bec-9667-91b15023c51a,1ed8105e-d2b7-6f9c-8afd-eb85670ba8b0,Urgences,20221,internshipHospital
+1ed8105d-c28b-6bec-9667-91b15023c51a,1eddd3ed-080f-6602-a61d-5fb4472a6ad7,SN1,20222,internshipPractical
+1ed8105d-c28b-6bec-9667-91b15023c51a,1ee71be4-fa1f-645e-87ff-b9a0369f45e5,Médecine polyvalente,20231,internshipHospital
+1ed8105d-c28b-6bec-9667-91b15023c51a,"018ec350-2365-7a0d-a484-63cda4f4450c",Pôle enfant,20232,internshipHospital
+1ed8105d-c28b-6bec-9667-91b15023c51a,"01938c9e-eb44-7031-a74f-837fd2d37f57",Pôle femme,20241,internshipHospital
+1ed8105d-c28b-6bec-9667-91b15023c51a,"01961afb-a87b-783a-8535-4d4fe86b16d4",SN2,20242,internshipPractical
+1ed8105d-c28c-6fec-bb07-91b15023c51a,1ed8105e-d2c0-69ee-863b-eb85670ba8b0,Urgences,20221,internshipHospital
+1ed8105d-c28c-6fec-bb07-91b15023c51a,1eddd3c5-e599-61da-ace8-cfbc66b02182,SN1,20222,internshipPractical
+1ed8105d-c28c-6fec-bb07-91b15023c51a,1ee71be9-0113-672a-b4ae-b159ec7fadc9,Médecine polyvalente,20231,internshipHospital
+1ed8105d-c28c-6fec-bb07-91b15023c51a,"018ec350-8e29-79f5-95f8-934c17d9bde4",Pôle enfant,20232,internshipHospital
+1ed8105d-c28c-6fec-bb07-91b15023c51a,"019300de-3dd6-7804-b9c6-96dc94c639c7",Pôle femme,20241,internshipHospital
+1ed8105d-c28c-6fec-bb07-91b15023c51a,"01961aed-01af-7eee-8326-1e62824beb5d",SN2,20242,internshipPractical
+1ed8105d-c28e-6220-9e6e-91b15023c51a,1ed8105e-d3a1-69e4-b65d-eb85670ba8b0,SN1,20221,internshipPractical
+1ed8105d-c28e-6220-9e6e-91b15023c51a,1edf4b04-93b6-60d6-8ee3-cda51f17f272,Urgences,20222,internshipHospital
+1ed8105d-c28e-6220-9e6e-91b15023c51a,1ee71be1-9ed3-63e6-b4f1-6b3a34345079,Médecine polyvalente,20231,internshipHospital
+1ed8105d-c28e-6220-9e6e-91b15023c51a,"018ec350-cf5b-7195-83c7-90ff296d9818",Pôle enfant,20232,internshipHospital
+1ed8105d-c28e-6220-9e6e-91b15023c51a,"01961afb-63cc-7b0f-986d-060cfbe729c0",SN2,20242,internshipPractical
+1ed8105d-c28f-644a-aabf-91b15023c51a,1ed8105e-d35c-65a6-8bc0-eb85670ba8b0,SN1,20221,internshipPractical
+1ed8105d-c28f-644a-aabf-91b15023c51a,1edf4b05-34f5-6988-a39b-3d39c0eae931,Urgences,20222,internshipHospital
+1ed8105d-c28f-644a-aabf-91b15023c51a,1ee765d8-08ca-66ba-a830-39e2660e783d,Pôle enfant,20231,internshipHospital
+1ed8105d-c28f-644a-aabf-91b15023c51a,"018ec352-25f5-7968-9b03-7e11b99cf953",Médecine polyvalente,20232,internshipHospital
+1ed8105d-c28f-644a-aabf-91b15023c51a,"01929591-a6b1-79c0-b32b-0342076137ce",SN2,20241,internshipPractical
+1ed8105d-c28f-644a-aabf-91b15023c51a,"019661cc-fc07-7bd9-b90d-830155f773cd",Pôle femme,20242,internshipHospital
+1ed8105d-c290-6606-b1f1-91b15023c51a,1ed8105e-d2c9-654e-98db-eb85670ba8b0,Urgences,20221,internshipHospital
+1ed8105d-c290-6606-b1f1-91b15023c51a,1eddd3ed-a35a-6e72-adef-8bbf08f58948,SN1,20222,internshipPractical
+1ed8105d-c290-6606-b1f1-91b15023c51a,1ee71bf1-6b17-6dee-b921-f3bba1e90482,Médecine polyvalente,20231,internshipHospital
+1ed8105d-c290-6606-b1f1-91b15023c51a,"018ec352-86a1-70c0-878b-1839130b8f16",Pôle enfant,20232,internshipHospital
+1ed8105d-c290-6606-b1f1-91b15023c51a,"0192f774-ef62-74dc-8fed-c7971439cbb9",Pôle femme,20241,internshipHospital
+1ed8105d-c290-6606-b1f1-91b15023c51a,"01961ae8-eca4-7c4b-bf76-db7c81b87b1c",SN2,20242,internshipPractical
+1ed8105d-c291-675e-a9b1-91b15023c51a,1ed8105e-d2d1-63d4-a581-eb85670ba8b0,Urgences,20221,internshipHospital
+1ed8105d-c291-675e-a9b1-91b15023c51a,1eddd3cb-fbab-6670-ac95-0721059a8640,SN1,20222,internshipPractical
+1ed8105d-c291-675e-a9b1-91b15023c51a,1ee71a32-b00d-6874-b34c-6fddb21081f4,Pôle enfant,20231,internshipPractical
+1ed8105d-c291-675e-a9b1-91b15023c51a,"018ec353-88f8-7d75-979d-3d7404efb66e",Médecine polyvalente,20232,internshipHospital
+1ed8105d-c291-675e-a9b1-91b15023c51a,"0192f775-86d8-7a77-8404-e4839b855952",Médecine polyvalente,20241,internshipHospital
+1ed8105d-c291-675e-a9b1-91b15023c51a,"01961aef-b961-711f-9021-b30184b85d3a",SN2,20242,internshipPractical
+1ed8105d-c292-6924-8309-91b15023c51a,1ed8105e-d38d-6c14-aefa-eb85670ba8b0,SN1,20221,internshipPractical
+1ed8105d-c292-6924-8309-91b15023c51a,1edf4b07-258a-60d2-9380-83cf28970df3,Urgences,20222,internshipHospital
+1ed8105d-c292-6924-8309-91b15023c51a,1ee71bde-c1df-6338-b893-6da597519177,Pôle enfant,20231,internshipHospital
+1ed8105d-c292-6924-8309-91b15023c51a,"018ec353-d915-79ca-8a2e-c70eab07b685",Médecine polyvalente,20232,internshipHospital
+1ed8105d-c292-6924-8309-91b15023c51a,"01936caf-c050-7027-8c75-617ae4bc0af8",Pôle femme,20241,internshipHospital
+1ed8105d-c292-6924-8309-91b15023c51a,"01961af1-de93-7f4b-a95e-c05edff4392d",SN2,20242,internshipPractical
+1ed8105d-c293-6b94-bec8-91b15023c51a,1ed8105e-d2da-62d6-a856-eb85670ba8b0,Urgences,20221,internshipHospital
+1ed8105d-c293-6b94-bec8-91b15023c51a,1eddd3c6-c44e-6d9e-8ce0-4de9716fff25,SN1,20222,internshipPractical
+1ed8105d-c293-6b94-bec8-91b15023c51a,1ee71bf0-ac8f-6f66-b509-2b90c36d2b6b,Médecine polyvalente,20231,internshipHospital
+1ed8105d-c293-6b94-bec8-91b15023c51a,"018ec354-2b4e-75fe-aa37-ade0ad589067",Pôle enfant,20232,internshipHospital
+1ed8105d-c293-6b94-bec8-91b15023c51a,"0192f776-a09c-7710-b670-93b99242479f",Pôle femme,20241,internshipHospital
+1ed8105d-c293-6b94-bec8-91b15023c51a,"01961af7-c8ef-7d2b-b869-f9b4421b0420",SN2,20242,internshipPractical
+1ed8105d-c294-6cec-8c75-91b15023c51a,1ed8105e-d3bf-64c6-8817-eb85670ba8b0,SN1,20221,internshipPractical
+1ed8105d-c294-6cec-8c75-91b15023c51a,1edf4b08-7184-6bda-ad11-0db9e7e9025d,Urgences,20222,internshipHospital
+1ed8105d-c294-6cec-8c75-91b15023c51a,1ee765fa-fa20-6e52-af17-8bb2d914e6e5,Pôle enfant,20231,internshipHospital
+1ed8105d-c294-6cec-8c75-91b15023c51a,"018ec354-6600-7a61-a904-980d50d0c318",Médecine polyvalente,20232,internshipHospital
+1ed8105d-c294-6cec-8c75-91b15023c51a,"019300e2-6a37-72eb-9e06-61cd63a4722f",Pôle femme,20241,internshipHospital
+1ed8105d-c294-6cec-8c75-91b15023c51a,"01961aeb-fe4c-7026-a150-c53016e8e827",SN2,20242,internshipPractical
+1ed8105d-c295-6ea8-8854-91b15023c51a,1ed8105e-d2e2-6350-9350-eb85670ba8b0,Urgences,20221,internshipHospital
+1ed8105d-c295-6ea8-8854-91b15023c51a,1eddd3f1-91ff-6e6c-bd06-f9e020d0ab28,SN1,20222,internshipPractical
+1ed8105d-c295-6ea8-8854-91b15023c51a,1ee71bf2-e9ec-66dc-a02c-a995e9b254e5,Pôle enfant,20231,internshipHospital
+1ed8105d-c295-6ea8-8854-91b15023c51a,"018ec354-d0c9-7493-869a-ae675bbd6906",Médecine polyvalente,20232,internshipHospital
+1ed8105d-c295-6ea8-8854-91b15023c51a,"019300ed-565f-748a-8f5c-8c96be1e7b2d",Pôle femme,20241,internshipHospital
+1ed8105d-c295-6ea8-8854-91b15023c51a,"01961af7-4db6-7c59-94d0-632f21fb0493",SN2,20242,internshipPractical
+1ed8105d-c297-605a-8412-91b15023c51a,1ed8105e-d2ea-6e38-9fc0-eb85670ba8b0,Urgences,20221,internshipHospital
+1ed8105d-c297-605a-8412-91b15023c51a,1eddd3dd-6032-6cc2-b338-cb95adfe3a0d,SN1,20222,internshipPractical
+1ed8105d-c297-605a-8412-91b15023c51a,1ee765fe-73dc-6ad6-bcb6-f3db5fa79c18,Médecine polyvalente,20231,internshipHospital
+1ed8105d-c297-605a-8412-91b15023c51a,"018ec355-f584-7e11-8b55-55861919195e",Pôle enfant,20232,internshipHospital
+1ed8105d-c297-605a-8412-91b15023c51a,"01929591-28d5-788b-bdd5-27aae1e00821",SN2,20241,internshipPractical
+1ed8105d-c297-605a-8412-91b15023c51a,"019661ce-e828-7dfc-a53b-e9b61ecbef85",Pôle femme,20242,internshipHospital
+1ed8105d-c298-61a8-8e69-91b15023c51a,1ed8105e-d3dd-65ca-af2b-eb85670ba8b0,SN1,20221,internshipPractical
+1ed8105d-c298-61a8-8e69-91b15023c51a,1edf4b19-9954-6be0-9513-d12cc13ec6b5,Urgences,20222,internshipHospital
+1ed8105d-c298-61a8-8e69-91b15023c51a,1ee71bcf-2628-6944-a6ce-57d86c821e96,Pôle enfant,20231,internshipHospital
+1ed8105d-c298-61a8-8e69-91b15023c51a,"0192f777-f158-7c87-95ae-047ec47a0e79",Médecine polyvalente,20241,internshipHospital
+1ed8105d-c299-6350-a021-91b15023c51a,1edbd973-e980-61a2-b2e2-7b2ec7673950,Urgences,20221,internshipHospital
+1ed8105d-c299-6350-a021-91b15023c51a,1eddd3e4-6be2-6976-a012-2d8020f1b155,SN1,20222,internshipPractical
+1ed8105d-c299-6350-a021-91b15023c51a,1ee71be0-704b-6e3e-b1ab-f7c13083d349,Médecine polyvalente,20231,internshipHospital
+1ed8105d-c299-6350-a021-91b15023c51a,"018ec356-707c-703d-95ba-e5a50a1b93eb",Pôle enfant,20232,internshipHospital
+1ed8105d-c299-6350-a021-91b15023c51a,"0192f778-513e-7c7c-9329-883ddf1eb3e5",Pôle femme,20241,internshipHospital
+1ed8105d-c299-6350-a021-91b15023c51a,"01961aeb-6d96-7e10-bf7a-3a73b1ebf8db",SN2,20242,internshipPractical
+1ed8105d-c29a-64e4-85de-91b15023c51a,1ed8105e-d2f2-6c0a-bfdf-eb85670ba8b0,Urgences,20221,internshipHospital
+1ed8105d-c29a-64e4-85de-91b15023c51a,1eddd3e2-6317-6e56-a3d3-efc9608a5ae5,SN1,20222,internshipPractical
+1ed8105d-c29a-64e4-85de-91b15023c51a,1ee71bce-1c66-6006-98ac-af6af7422713,Pôle enfant,20231,internshipHospital
+1ed8105d-c29a-64e4-85de-91b15023c51a,"018ec357-ada6-7781-8268-9783edb9c859",Médecine polyvalente,20232,internshipHospital
+1ed8105d-c29a-64e4-85de-91b15023c51a,"01929598-4b38-7e53-90d8-992ed2b07c21",SN2,20241,internshipPractical
+1ed8105d-c29a-64e4-85de-91b15023c51a,"019661d0-5468-761f-9be9-c2c29dfdcc14",Pôle femme,20242,internshipHospital
+1ed8105d-c29b-6722-ad10-91b15023c51a,1ed8105e-d2fa-698c-8109-eb85670ba8b0,Urgences,20221,internshipHospital
+1ed8105d-c29b-6722-ad10-91b15023c51a,1eddd3d9-994c-6124-817f-6b05b483451d,SN1,20222,internshipPractical
+1ed8105d-c29b-6722-ad10-91b15023c51a,1ee71be8-1aa6-6f8a-9c59-cd27433d1f41,Pôle enfant,20231,internshipHospital
+1ed8105d-c29b-6722-ad10-91b15023c51a,"018ec357-ecc6-738d-a3c8-fbd15cf50edd",Médecine polyvalente,20232,internshipHospital
+1ed8105d-c29b-6722-ad10-91b15023c51a,"0192f778-cad0-78b6-a15a-b5fcb6e933dd",Pôle femme,20241,internshipHospital
+1ed8105d-c29b-6722-ad10-91b15023c51a,"01961afb-054f-76ed-a310-c9df94d7240c",SN2,20242,internshipPractical
+1ed8105d-c29c-69c4-9c3b-91b15023c51a,1ed8105e-d379-6f20-b8ba-eb85670ba8b0,SN1,20221,internshipPractical
+1ed8105d-c29c-69c4-9c3b-91b15023c51a,1edf4b09-d402-6400-81ea-a773cc44c02e,Urgences,20222,internshipHospital
+1ed8105d-c29c-69c4-9c3b-91b15023c51a,1ee71bef-ade9-6ed0-9cdb-41b5ca9c8338,Pôle enfant,20231,internshipHospital
+1ed8105d-c29c-69c4-9c3b-91b15023c51a,"018ec359-6786-7559-a3fa-2c7db5902ca0",Médecine polyvalente,20232,internshipHospital
+1ed8105d-c29c-69c4-9c3b-91b15023c51a,"01929594-add5-75fb-82d6-02774404e95a",SN2,20241,internshipPractical
+1ed8105d-c29c-69c4-9c3b-91b15023c51a,"019661d1-04aa-7e02-88a7-b7489ca49fc6",Pôle femme,20242,internshipHospital
+1ed8105d-c29d-6c7a-87ae-91b15023c51a,1ed8105e-d335-6032-9bae-eb85670ba8b0,SN1,20221,internshipPractical
+1ed8105d-c29d-6c7a-87ae-91b15023c51a,1edf4b0a-9b8d-65ec-b82b-4f27cd600b9d,Urgences,20222,internshipHospital
+1ed8105d-c29d-6c7a-87ae-91b15023c51a,1ee71be9-c939-6420-92c9-a9c6a0d8dcb6,Pôle enfant,20231,internshipHospital
+1ed8105d-c29d-6c7a-87ae-91b15023c51a,"018ec359-b3a8-71f1-b9bf-db1a59976e3a",Médecine polyvalente,20232,internshipHospital
+1ed8105d-c29d-6c7a-87ae-91b15023c51a,"0192f779-7c8a-7f26-870f-d689154f3e71",Pôle femme,20241,internshipHospital
+1ed8105d-c29d-6c7a-87ae-91b15023c51a,"01961ae8-4bf3-7160-8433-4eea617229d5",SN2,20242,internshipPractical
+1ed8105d-c29e-6dd2-b3cd-91b15023c51a,1ed8105e-d3d3-64e4-bbb3-eb85670ba8b0,SN1,20221,internshipPractical
+1ed8105d-c29e-6dd2-b3cd-91b15023c51a,1edf4b0b-4436-686a-86ea-695554ac1374,Urgences,20222,internshipHospital
+1ed8105d-c29e-6dd2-b3cd-91b15023c51a,1ee71bbe-f6e2-6bae-a0d8-872f60978daa,Pôle enfant,20231,internshipHospital
+1ed8105d-c29e-6dd2-b3cd-91b15023c51a,"018ec359-fe57-7110-8bc3-3732d82df234",Médecine polyvalente,20232,internshipHospital
+1ed8105d-c29e-6dd2-b3cd-91b15023c51a,"01929595-b274-744d-8524-45fc2d0a85f2",SN2,20241,internshipPractical
+1ed8105d-c29e-6dd2-b3cd-91b15023c51a,"019661d1-cdf8-799b-9c60-906b10aec6c2",Pôle femme,20242,internshipHospital
+1ed8105d-c29f-6f34-b327-91b15023c51a,1ed8105e-d302-60a6-8d57-eb85670ba8b0,Urgences,20221,internshipHospital
+1ed8105d-c29f-6f34-b327-91b15023c51a,1eddd3e5-6671-6dc4-810c-135e8ebdb129,SN1,20222,internshipPractical
+1ed8105d-c29f-6f34-b327-91b15023c51a,1ee76642-777b-65cc-b139-1f3629e53121,Pôle enfant,20231,internshipHospital
+1ed8105d-c2a1-60f0-a749-91b15023c51a,1ed8dac5-6fa6-691c-8470-577a983eb8eb,Urgences,20221,internshipHospital
+1ed8105d-c2a1-60f0-a749-91b15023c51a,1eddd3e6-2f04-630e-a250-bd380bd665a2,SN1,20222,internshipPractical
+1ed8105d-c2a1-60f0-a749-91b15023c51a,1ee71bd6-643a-6e9c-8c94-e32384806d14,Médecine polyvalente,20231,internshipHospital
+1ed8105d-c2a1-60f0-a749-91b15023c51a,"018ebd0b-ab41-73dc-9200-96aaa1f77c88",Pôle enfant,20232,internshipPractical
+1ed8105d-c2a1-60f0-a749-91b15023c51a,"01929594-4284-7335-934c-5b302d3d1ad2",SN2,20241,internshipPractical
+1ed8105d-c2a1-60f0-a749-91b15023c51a,"019661d2-afc6-70e6-bce8-50bb9a919b8b",Pôle femme,20242,internshipHospital
+1ed8105d-c2a2-62ac-bdb7-91b15023c51a,1ed8105e-d440-65a8-a85a-eb85670ba8b0,SN1,20221,internshipPractical
+1ed8105d-c2a2-62ac-bdb7-91b15023c51a,1edf4b0c-0351-6416-b55d-7d32d94aa06f,Urgences,20222,internshipHospital
+1ed8105d-c2a3-644a-ab7b-91b15023c51a,1ed8105e-d397-6cc8-a07d-eb85670ba8b0,SN1,20221,internshipPractical
+1ed8105d-c2a3-644a-ab7b-91b15023c51a,1edf4b0c-93b3-613a-8838-87451b714e5b,Urgences,20222,internshipHospital
+1ed8105d-c2a3-644a-ab7b-91b15023c51a,1ee765da-493b-6b2a-95dc-83fe61040855,Pôle enfant,20231,internshipHospital
+1ed8105d-c2a3-644a-ab7b-91b15023c51a,"018ec35b-4971-7a71-b4a8-f8103ec50853",Médecine polyvalente,20232,internshipHospital
+1ed8105d-c2a3-644a-ab7b-91b15023c51a,"0192f77a-04ad-7eb1-ace8-c10580c78b7c",Pôle femme,20241,internshipHospital
+1ed8105d-c2a3-644a-ab7b-91b15023c51a,"01961aea-fd12-7bc3-a0eb-69df05caeeff",SN2,20242,internshipPractical
+1ed8105d-c2a4-65b6-8cec-91b15023c51a,1ed8105e-d4b6-6b4a-b756-eb85670ba8b0,SN1,20221,internshipPractical
+1ed8105d-c2a4-65b6-8cec-91b15023c51a,1edf4b1a-0a39-6450-bf92-4d9f6df16460,Urgences,20222,internshipHospital
+1ed8105d-c2a4-65b6-8cec-91b15023c51a,1ee71bc9-b4ec-6f8c-879a-8f4998a05daa,Pôle enfant,20231,internshipHospital
+1ed8105d-c2a4-65b6-8cec-91b15023c51a,"018ec35b-ae3a-7a13-8b42-e30d602b2988",Médecine polyvalente,20232,internshipHospital
+1ed8105d-c2a4-65b6-8cec-91b15023c51a,"0192959a-3757-7ba9-80bd-caad59d9a9fc",SN2,20241,internshipPractical
+1ed8105d-c2a4-65b6-8cec-91b15023c51a,"019661d3-767b-755e-8379-7d622d2e366c",Pôle femme,20242,internshipHospital
+1ed8105d-c2a5-697a-bf0a-91b15023c51a,1ed8105e-d30a-680a-9ba6-eb85670ba8b0,Urgences,20221,internshipHospital
+1ed8105d-c2a5-697a-bf0a-91b15023c51a,1eddd3c3-5633-629a-9d72-734f050089f4,SN1,20222,internshipPractical
+1ed8105d-c2a5-697a-bf0a-91b15023c51a,1ee71bc8-7b4f-6848-9270-c54f9123fe83,Pôle enfant,20231,internshipHospital
+1ed8105d-c2a5-697a-bf0a-91b15023c51a,"018ec35c-dcf1-7cc1-a17a-3852f4099c35",Médecine polyvalente,20232,internshipHospital
+1ed8105d-c2a5-697a-bf0a-91b15023c51a,"01929593-6f07-78ae-b9e5-f67ab5ab7324",SN2,20241,internshipPractical
+1ed8105d-c2a5-697a-bf0a-91b15023c51a,"019661da-3cc4-70f2-9b28-7eb3b50dec03",Pôle femme,20242,internshipHospital
+1ed8105d-c2a6-6b54-927b-91b15023c51a,1ed8105e-d36f-6df4-a381-eb85670ba8b0,SN1,20221,internshipPractical
+1ed8105d-c2a6-6b54-927b-91b15023c51a,1edf4b0d-d92b-684c-b89f-cbf4593e0c7b,Urgences,20222,internshipHospital
+1ed8105d-c2a6-6b54-927b-91b15023c51a,1ee71bab-da4e-6f00-b4e9-9ddbad41c160,Pôle enfant,20231,internshipHospital
+1ed8105d-c2a6-6b54-927b-91b15023c51a,"018ec35d-45fd-78e5-acc1-7de8d0ff1446",Médecine polyvalente,20232,internshipHospital
+1ed8105d-c2a6-6b54-927b-91b15023c51a,"01929590-bc2d-7a50-931d-12290a64ff2e",SN2,20241,internshipPractical
+1ed8105d-c2a6-6b54-927b-91b15023c51a,"019661df-aac4-7895-bce6-8925fcbaf082",Pôle femme,20242,internshipHospital
+1ed8105d-c2a7-6cfc-b92c-91b15023c51a,1ed8105e-d312-6f1e-bd96-eb85670ba8b0,Urgences,20221,internshipHospital
+1ed8105d-c2a7-6cfc-b92c-91b15023c51a,1eddd3bf-b767-6d94-97d1-616da9ed7ca5,SN1,20222,internshipPractical
+1ed8105d-c2a7-6cfc-b92c-91b15023c51a,1ee71b98-db47-6262-8815-43d59e9cab34,Urgences,20231,internshipHospital
+1ed8105d-c2a7-6cfc-b92c-91b15023c51a,"018ebd0b-413f-7355-971f-977bfa691e69",Pôle enfant,20232,internshipPractical
+1ed8105d-c2a7-6cfc-b92c-91b15023c51a,"019300e4-0454-7bc7-94ea-f62b2561a1bc",Médecine polyvalente,20241,internshipHospital
+1ed8105d-c2a7-6cfc-b92c-91b15023c51a,"01961af8-d9cd-7816-bd78-31908a57cfb6",SN2,20242,internshipPractical
+1ed8105d-c2a8-6e72-b93d-91b15023c51a,1ed8105e-d31b-6a38-936e-eb85670ba8b0,Urgences,20221,internshipHospital
+1ed8105d-c2a8-6e72-b93d-91b15023c51a,1eddd3c1-4967-63f6-9a68-15b8171db13d,SN1,20222,internshipPractical
+1ed8105d-c2a8-6e72-b93d-91b15023c51a,1ee71bbd-3a8e-6d00-98b3-1b0d44b6a158,Médecine polyvalente,20231,internshipHospital
+1ed8105d-c2a8-6e72-b93d-91b15023c51a,"018ec35d-9108-7a88-b491-586177b850f5",Pôle enfant,20232,internshipHospital
+1ed8105d-c2a8-6e72-b93d-91b15023c51a,"01929599-9338-798e-b07b-465ab6aaaf46",SN2,20241,internshipPractical
